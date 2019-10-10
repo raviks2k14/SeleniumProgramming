@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28147" started-at="2019-09-03T04:40:54Z" finished-at="2019-09-03T04:41:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28147" started-at="2019-09-03T04:40:54Z" finished-at="2019-09-03T04:41:22Z">
+      <class name="com.raviks.selenium.SeleniumLocators">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.raviks.selenium.SeleniumLocators@51efea79]" name="setUp" is-config="true" duration-ms="4099" started-at="2019-09-02T21:40:54Z" finished-at="2019-09-02T21:40:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickRadio()[pri:0, instance:com.raviks.selenium.SeleniumLocators@51efea79]" name="clickRadio" duration-ms="20349" started-at="2019-09-02T21:40:58Z" finished-at="2019-09-02T21:41:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickRadio -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.raviks.selenium.SeleniumLocators@51efea79]" name="tearDown" is-config="true" duration-ms="136" started-at="2019-09-02T21:41:19Z" finished-at="2019-09-02T21:41:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.raviks.selenium.SeleniumLocators@51efea79]" name="setUp" is-config="true" duration-ms="3180" started-at="2019-09-02T21:41:19Z" finished-at="2019-09-02T21:41:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="printRadioButtonNames()[pri:0, instance:com.raviks.selenium.SeleniumLocators@51efea79]" name="printRadioButtonNames" duration-ms="198" started-at="2019-09-02T21:41:22Z" finished-at="2019-09-02T21:41:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printRadioButtonNames -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.raviks.selenium.SeleniumLocators@51efea79]" name="tearDown" is-config="true" duration-ms="161" started-at="2019-09-02T21:41:22Z" finished-at="2019-09-02T21:41:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.raviks.selenium.SeleniumLocators -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
